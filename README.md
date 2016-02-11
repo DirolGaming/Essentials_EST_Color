@@ -1,2 +1,5 @@
-# Essentials_EST_Color
-This is the essentials messages_EST.propeties file with new colours.
+# # EssentialsEST_Color
+Essentials with better Estonian translations and a new color scheme.
+
+[Essentials](http://dev.bukkit.org/bukkit-plugins/essentials/).
+
